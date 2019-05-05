@@ -1,6 +1,6 @@
-# demo-vue
+# node-vue
 
-> A Vue.js project
+> node 增删改查接口
 
 ## Build Setup
 
